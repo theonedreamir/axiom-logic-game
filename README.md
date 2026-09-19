@@ -1,3 +1,3 @@
 # AXIOM
 
-only a small logic game
+a small logic game
