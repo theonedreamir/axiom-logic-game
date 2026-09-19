@@ -1,3 +1,3 @@
 # AXIOM
 
-A small logic game. Just for fun.
+just for fun, only a small logic game
